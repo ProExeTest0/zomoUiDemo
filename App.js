@@ -15,7 +15,7 @@ const App = () => {
     messaging()
       .getToken()
       .then(token => {
-        console.log('token', token);
+        console.log('cxvxcvcxvcxvxcv', token);
       });
   }, []);
 
