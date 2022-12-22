@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "617004705295",
+    "project_id": "awesome-e9655",
+    "storage_bucket": "awesome-e9655.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617004705295:android:53470008d80e26a7b4a57a",
+        "android_client_info": {
+          "package_name": "com.zomoui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617004705295-9ctjta5j5tlaa82arg13kpn24jip7m93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQU4-pSHiNrP6U6BQaG-REuE0pVzkJorE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617004705295-9ctjta5j5tlaa82arg13kpn24jip7m93.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "617004705295-4rgu3dm4gkq03ktvvesqva4m5rt7c4df.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.Awesome"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
